@@ -12,7 +12,6 @@
 -   git clone https://github.com/JoseCreeds/test_fidele_backend.git
 -   composer install
 -   php artisan migrate
--   php artisan migrate
 -   php artisan serve
 
 
